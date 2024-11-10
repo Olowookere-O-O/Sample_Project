@@ -1,7 +1,7 @@
 # Project Description
 The repository contains project on data cleaning, regression modeling, result publication using LaTeX. 
 
-The data input is sourced from the Pre-Doctoral Test used by the Department of Economics, University of Zurich.
+The data input is sourced from the Pre-Doctoral Fellowship Test used by the Department of Economics, University of Zurich.
 
 # Folders and Files
 1. Input Data: This folders contains two data: 
