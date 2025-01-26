@@ -2,7 +2,7 @@
 | Author: Olowookere, Oluwatosin Olawale
 | Purpose: Stata Code Sample for Pre-Doctoral Application in Development Economics
 | The script performs three tasks: 
-|                (1) Data cleaning and transformation only 
+|                (1) Data cleaning, transformation and export of output  
 |                (2) Data wrangling and panel regression analysis to undertand the impact of foreign aid on health outcome 
 |                (3) Run regression and export the output to LaTeX
 | Date: November 8th, 2024
