@@ -1,6 +1,5 @@
 /*===========================================================================
-| Purpose: Stata Test for Pre-Doctoral Researcher in Development Economics
-| PI: Prof. Dr. Dina Pomeranz
+| Purpose: Stata Skill Demonstration for Pre-Doctoral Applicant in Development Economics
 | Author: Olowookere, Oluwatosin Olawale
 | Date: November 8th, 2024 (12pm - 5:00pm)
 ============================================================================*/
