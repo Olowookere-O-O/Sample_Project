@@ -15,7 +15,7 @@ set more off
 ssc install estout // To export regression results
 
 /*===========================================================================
-Task 1: Clean the data, create a unitary value, covert the data from long to wide format using months column.
+Task One: Clean the data, create a unitary value, covert the data from long to wide format using months column.
 Metadata for Task 1: This is a panel containing countries export transactions. Below are the columns: 
 • Exporter ID: (string) identifier of the exporter firm. Dataset contains only six unique exporters.
 • Country of destination: (string) name of the country of destination.
